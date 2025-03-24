@@ -8,7 +8,7 @@ A Web Application for Latest Earthquake Information
 
 ## Description
 
-This project is a web application that provides the latest information about earthquakes in Indonesia. The earthquake data is fetched from BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) Indonesia and is automatically updated every minute.
+This project is a web application that provides the latest information about earthquakes in Indonesia. The earthquake data is fetched from BMKG (Badan Meteorologi, Klimatologi, dan Geofisika) Indonesia and is automatically updated every minute. The data is sourced from the BMKG Official website: [BMKG Earthquake Data](https://data.bmkg.go.id/gempabumi/).
 
 ## Features
 
